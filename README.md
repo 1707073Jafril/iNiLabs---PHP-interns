@@ -4,12 +4,14 @@
   
 Assignment Summary:  
 ------------------------------------------------------------------------------------------------------------
+```txt
 Below are five tasks that showcase various aspects of OOP in PHP. Your task is to complete three of these assignments including task 5. You can choose the tasks that align with your strengths and interests. Don't hesitate to submit even if you could not succeed to do the assignment completely. Just send us whatever the progress is.  
 Task 1: Class Inheritance  
 Task 2: Interface Implementation  
 Task 3: Encapsulation  
 Task 4: Polymorphism  
-Task 5: To-Do Module  
+Task 5: To-Do Module
+``` 
 
   
 **Solution**  
