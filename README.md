@@ -11,8 +11,9 @@ Task 3: Encapsulation
 Task 4: Polymorphism  
 Task 5: To-Do Module  
 
-```txt  
+  
 **Solution**  
+```txt
 I have completed the following tasks.  
 Task 1: Class Inheritance,  
 Task 3: Encapsulation,   
@@ -20,20 +21,22 @@ Task 4: Polymorphism, and
 Task 5: To-Do Module. 
 
 -----------------------------------------------------------------------------------------------------------  
-**Task 1: Class Inheritance**  
+Task 1: Class Inheritance  
 Two class were created to calculate the area of a rectangle and a circle.   
 
-**Task 3: Encapsulatione**    
+Task 3: Encapsulatione    
 Encapsulatione, an important concept of OOP was implemented for salary of employees.   
 
-**Task 4: Polymorphism**  
+Task 4: Polymorphism  
 I've implemented a set of animal classes that demonstrate polymorphism by overriding a method for making sounds.  
 
-**Task 5: To-Do Module**  
-I have implemented a simple module and corresponding code for a To-Do app. 
+Task 5: To-Do Module  
+I have implemented a simple module and corresponding code for a To-Do app.
+```
+
 
 **File and Folder Structure**
-```   
+ 
 
 ```txt
 .
