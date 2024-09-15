@@ -1,6 +1,6 @@
 # iNiLabs---PHP-interns
 
-**PHP intern Assignment**  
+## PHP intern Assignment 
   
 Assignment Summary:  
 ------------------------------------------------------------------------------------------------------------
