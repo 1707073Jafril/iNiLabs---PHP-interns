@@ -32,4 +32,14 @@ I've implemented a set of animal classes that demonstrate polymorphism by overri
 **Task 5: To-Do Module**  
 I have implemented a simple module and corresponding code for a To-Do app. 
 
-
+**File and Folder Structure**  
+.
+├── ...
+├── test                    # Test files (alternatively `spec` or `tests`)
+│   ├── benchmarks          # Load and stress tests
+│   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
+│   └── unit                # Unit tests
+└── README.MD
+├── Task 1: Class Inheritance
+├── Task 3: Encapsulation
+├── Task 4: Polymorphism
